@@ -1,0 +1,19 @@
+{
+    "name": "#PWATest",
+    "short_name": "#PWA",
+    "description": "Hola a Todos",
+    "background_color": "#749cdb",
+    "theme_color": "#74db87",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es",
+    "icons": [
+        {
+            "src": "./img/pera.jpg",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
